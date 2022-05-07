@@ -1,0 +1,309 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:dcterms="http://purl.org/dc/terms/">
+    <bib:Manuscript rdf:about="https://commons.wikimedia.org/wiki/File:J._E._Casely-Hayford.jpg">
+        <z:itemType>manuscript</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Wikimedia</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Casely-Hayford</foaf:surname>
+                        <foaf:givenName>J.E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Picture of J.E. Casely Hayford</dc:title>
+        <z:language>English</z:language>
+        <z:archive>Northwestern University</z:archive>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://commons.wikimedia.org/wiki/File:J._E._Casely-Hayford.jpg</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-03-25</dcterms:dateSubmitted>
+        <dc:rights>Northwestern University</dc:rights>
+        <z:type>jpeg</z:type>
+    </bib:Manuscript>
+    <bib:Article rdf:about="https://commons.wikimedia.org/wiki/File:Adelaide_Casely-Hayford,_1903.jpg">
+        <z:itemType>newspaperArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Newspaper></bib:Newspaper>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Wikimedia</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Casely-Hayford</foaf:surname>
+                        <foaf:givenName>Adelaide</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Adelaide Casely-Hayford wearing kente cloth. 1903</dc:title>
+        <dc:date>1 January 1903</dc:date>
+        <z:language>English</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://commons.wikimedia.org/wiki/File:Adelaide_Casely-Hayford,_1903.jpg</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-03-25</dcterms:dateSubmitted>
+        <dc:rights>https://www.bustle.com/articles/184792-7-seminal-moments-in-the-history-of-international-feminism-you-need-to-know</dc:rights>
+    </bib:Article>
+    <bib:Manuscript rdf:about="https://commons.wikimedia.org/wiki/File:Gladys_May_Casely_Hayford.jpg">
+        <z:itemType>manuscript</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Wikimedia</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Casely-Hayford</foaf:surname>
+                        <foaf:givenName>Gladys</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Gladys May Casely Hayford, daughter of Adelaide Casely-Hayford</dc:title>
+        <dc:date>28 August 2014</dc:date>
+        <z:language>English</z:language>
+        <z:archive>Wikimedia</z:archive>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://commons.wikimedia.org/wiki/File:Gladys_May_Casely_Hayford.jpg</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-03-25</dcterms:dateSubmitted>
+        <dc:rights>http://www.pinterest.com/pin/99079260523712053/</dc:rights>
+        <z:type>jpeg</z:type>
+    </bib:Manuscript>
+    <bib:Manuscript rdf:about="https://commons.wikimedia.org/wiki/File:The_National_Archives_UK_-_CO_1069-37-104-1-001.jpg">
+        <z:itemType>manuscript</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>The National Archives</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>The National Archive UK</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Visit of His Royal Highness The Prince of Wales to the Gold Coast Colony 1925</dc:title>
+        <dc:date>1925</dc:date>
+        <z:shortTitle>Visit of His Royal Highness</z:shortTitle>
+        <z:archive>Wikimedia/The National Archives</z:archive>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://commons.wikimedia.org/wiki/File:The_National_Archives_UK_-_CO_1069-37-104-1-001.jpg</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-03-25</dcterms:dateSubmitted>
+        <z:type>jpeg</z:type>
+    </bib:Manuscript>
+    <bib:Manuscript rdf:about="https://commons.wikimedia.org/wiki/File:The_National_Archives_UK_-_CO_1069-43-65.jpg">
+        <z:itemType>manuscript</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>The National Archives</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>The National Archive UK</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>The gold coast cabinet on 6 march 1957</dc:title>
+        <dc:date>6 March 1957</dc:date>
+        <z:language>English</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://commons.wikimedia.org/wiki/File:The_National_Archives_UK_-_CO_1069-43-65.jpg</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-03-25</dcterms:dateSubmitted>
+        <dc:rights>The National Archives UK</dc:rights>
+        <z:type>jpeg</z:type>
+    </bib:Manuscript>
+    <bib:Manuscript rdf:about="https://digitalcollections.nypl.org/items/044451b0-faf7-0131-1ee2-58d385a7bbd0">
+        <z:itemType>manuscript</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schomburg Center for Research in Black Culture, Jean Blackwell Hutson Research and Reference Division, The New York Public Library</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>&quot;Africa&quot; The New York Public Library Digital Collections.</dc:title>
+        <dc:date>1787</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://digitalcollections.nypl.org/items/044451b0-faf7-0131-1ee2-58d385a7bbd0</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-03-25</dcterms:dateSubmitted>
+        <dc:rights>The New York Public Library believes that this item is in the public domain under the laws of the United States, but did not make a determination as to its copyright status under the copyright laws of other countries. This item may not be in the public domain under the laws of other countries. Though not required, if you want to credit us as the source, please use the following statement, &quot;From The New York Public Library,&quot; and provide a link back to the item on our Digital Collections site. Doing so helps us track how our collection is used and helps justify freely releasing even more content in the future.</dc:rights>
+    </bib:Manuscript>
+    <bib:Manuscript rdf:about="https://digitalcollections.nypl.org/items/510d47de-55dd-a3d9-e040-e00a18064a99">
+        <z:itemType>manuscript</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>George Arents Collection, The New York Public Library</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Gold Coast</dc:title>
+        <z:language>English</z:language>
+        <z:archive>The New York Public Library Digital Collections. https://digitalcollections.nypl.org/items/510d47de-55dd-a3d9-e040-e00a18064a99</z:archive>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://digitalcollections.nypl.org/items/510d47de-55dd-a3d9-e040-e00a18064a99</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-03-25</dcterms:dateSubmitted>
+    </bib:Manuscript>
+    <bib:Manuscript rdf:about="https://digitalcollections.nypl.org/items/510d47e3-2f59-a3d9-e040-e00a18064a99">
+        <z:itemType>manuscript</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>George Arents Collection, The New York Public Library</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Flag of the Gold Coast</dc:title>
+        <z:archive>The New York Public Library Digital Collections</z:archive>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://digitalcollections.nypl.org/items/510d47e3-2f59-a3d9-e040-e00a18064a99</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-03-25</dcterms:dateSubmitted>
+        <dc:rights>The copyright and related rights status of this item has been reviewed by The New York Public Library, but we were unable to make a conclusive determination as to the copyright status of the item. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use.</dc:rights>
+    </bib:Manuscript>
+    <bib:Manuscript rdf:about="https://digitalcollections.nypl.org/items/510d47df-8d2a-a3d9-e040-e00a18064a99">
+        <z:itemType>manuscript</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://digitalcollections.nypl.org/items/510d47df-8d2a-a3d9-e040-e00a18064a99</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Manuscript>
+    <bib:Manuscript rdf:about="#item_15">
+        <z:itemType>manuscript</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schomburg Center for Research in Black Culture, Jean Blackwell Hutson Research and Reference Division, The New York Public Library</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Cape Coast Castle (Cabo Corso), Gold Coast; First a Portuguese and then a British depôt (founded in 1626) and shipping-place for the slave trade</dc:title>
+        <dc:date>1910</dc:date>
+        <z:archive>New York Public Library Digital Collections</z:archive>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://digitalcollections.nypl.org/items/510d47df-8d2a-a3d9-e040-e00a18064a99</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-03-25</dcterms:dateSubmitted>
+    </bib:Manuscript>
+    <bib:Manuscript rdf:about="https://digitalcollections.nypl.org/items/510d47dd-e604-a3d9-e040-e00a18064a99">
+        <z:itemType>manuscript</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schomburg Center for Research in Black Culture, Jean Blackwell Hutson Research and Reference Division, The New York Public Library</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Fanti artisans: Gold Coast</dc:title>
+        <z:archive>New York Public Library Digital Collections</z:archive>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://digitalcollections.nypl.org/items/510d47dd-e604-a3d9-e040-e00a18064a99</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-03-26</dcterms:dateSubmitted>
+        <dc:rights>The New York Public Library believes that this item is in the public domain under the laws of the United States, but did not make a determination as to its copyright status under the copyright laws of other countries. This item may not be in the public domain under the laws of other countries. Though not required, if you want to credit us as the source, please use the following statement, &quot;From The New York Public Library,&quot; and provide a link back to the item on our Digital Collections site. Doing so helps us track how our collection is used and helps justify freely releasing even more content in the future.</dc:rights>
+    </bib:Manuscript>
+    <bib:Manuscript rdf:about="https://digitalcollections.nypl.org/items/921b8472-25f3-3fbc-e040-e00a18062f5c">
+        <z:itemType>manuscript</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schomburg Center for Research in Black Culture, Photographs and Prints Division, The New York Public Library</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>On the afternoon of his birthday, the University of Ghana conferred its first honorary degree on W.E.B. Du Bois. Here is Nana Nketsia IV, a paramount Chief who is Chairman of the University Council, placing the hood over Dr. Du Bois' head</dc:title>
+        <z:archive>New York Public Library Digital Collections</z:archive>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://digitalcollections.nypl.org/items/921b8472-25f3-3fbc-e040-e00a18062f5c</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-03-25</dcterms:dateSubmitted>
+        <dc:rights>The copyright and related rights status of this item has been reviewed by The New York Public Library, but we were unable to make a conclusive determination as to the copyright status of the item. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use.</dc:rights>
+    </bib:Manuscript>
+</rdf:RDF>
